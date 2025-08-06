@@ -1,4 +1,4 @@
-# Micro Video Recommendation System
+# Exploiting Fine-Grained Skip Behaviors for Micro-video Recommendation (AAAI '25)
 
 This repository contains the official code of "Exploiting Fine-Grained Skip Behaviors for Micro-video Recommendation (AAAI '25)" .
 
